@@ -1,0 +1,38 @@
+All Routes
+
+//geting all users
+${host}/api/users/getUsers
+
+
+//geting on user
+${host}/api/users/getUser/${id}
+
+
+
+//adding user
+
+${host}/api/users/adduser
+
+
+
+//updating user 
+
+${host}/api/users/updateuser/${id}
+
+
+
+//deleting user
+
+${host}/api/users/deleteuser/${id}
+
+
+
+//please set environment varialbles
+
+PORT
+USERNAME
+PASSWORD
+DATABASENAME
+
+
+
